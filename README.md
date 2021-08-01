@@ -20,6 +20,13 @@ De acuerdo con esto, en el cálculo del ángulo A, la fórmula sería:
 
 • Finalmente, el programa debe calcular el área del triángulo, sin importar qué tipo de triángulo sea.
 
-## Ejemplo
+## Diseño y ejecucion
+
+![image](https://user-images.githubusercontent.com/70002378/127779779-18cac087-90a5-481b-b22a-26b9fae5401e.png)
+
+![image](https://user-images.githubusercontent.com/70002378/127779796-f2044fdd-2eb6-498c-a0fc-f7db963bb85d.png)
+
+![image](https://user-images.githubusercontent.com/70002378/127779826-4ade2947-b35c-4f69-a8ce-f6e92b55a297.png)
+
 
 
